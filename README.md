@@ -1,5 +1,6 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5520759.gif" width="802" height="96" alt="King Userbot" /></a>
 
+<p align="center">
   <a href="https://github.com/apisuserbot/TeamKingUserbot/fork">
     <img src="https://img.shields.io/github/forks/apisuserbot/TeamKingUserbot?label=Fork&style=social">
     

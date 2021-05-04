@@ -1,7 +1,6 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5520759.gif" width="802" height="96" alt="King Userbot" /></a>
 
-<p align="center">https://camo.githubusercontent.com/292da1e2a80526139d3d90657a9725f349f12173b9fedc63fba15c571c7872c1/68747470733a2f2f6d6574726963732e6c65636f712e696f2f6170697375736572626f743f74656d706c6174653d636c6173736963267265706f7369746f726965732e666f726b733d74727565266c616e6775616765733d31266c616e6775616765732e636f6c6f72733d676974687562266c616e6775616765732e7468726573686f6c643d3025323526636f6e6669672e74696d657a6f6e653d417369612532464a616b61727461
-  <a href="https://github.com/DoellBarr/TeamKing-Userbot/fork">
+  <a href="https://github.com/apisuserbot/TeamKingUserbot/fork">
     <img src="https://img.shields.io/github/forks/apisuserbot/TeamKingUserbot?label=Fork&style=social">
     
   </a>
